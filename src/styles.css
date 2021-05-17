@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(222, 233, 229);
+  color: rgb(17, 16, 95);
+}
+
+.heading {
+  color: rgb(46, 114, 173);
+}
+
+input {
+  background-color: rgb(222, 233, 229);
+  border: black solid 1px;
+  color: rgb(17, 16, 95);
+  font-size: 1.4rem;
+  padding: 0.4rem;
+  width: 30%;
+  text-align: center;
+}
+
+div {
+  margin: 40px 0px;
+}
+
+.list {
+  display: inline-block;
+  font-size: 2.5rem;
+  padding: 10px;
+}
+
+.output p {
+  font-size: 1.4rem;
+}
+
+.list1 p {
+  padding: 0px 30%;
+}
